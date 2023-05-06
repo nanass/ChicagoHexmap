@@ -1,0 +1,982 @@
+{
+    "type": "FeatureCollection",
+    "features":
+    [
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60617"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.55110588160314,
+                    41.735236438252905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60633"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.55115704478057,
+                    41.685476533123804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60615"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.57058903282986,
+                    41.80989155226494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60649"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.5706263707602,
+                    41.760126949543704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60628"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.57066365552879,
+                    41.71036548490636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60827"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.57070088724915,
+                    41.6606071135763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60637"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.5901607758278,
+                    41.78501529719854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60619"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.59018416238749,
+                    41.73525226413097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60643"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.59020751566125,
+                    41.68549234675636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60605"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.6096996280073,
+                    41.85966927682801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60653"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.60970911003986,
+                    41.80990148339634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60621"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.60971857856227,
+                    41.76013687296983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60643"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.6097280336034,
+                    41.71037540064713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60620"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.62925799761356,
+                    41.685496356933506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60636"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.62926245426713,
+                    41.735256277413455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60609"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.62926691727287,
+                    41.785019313594404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60616"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.62927138664439,
+                    41.8347855103153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60603"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.62927586239526,
+                    41.88455491254006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60655"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.64879241616217,
+                    41.71037350836343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60652"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.64881079085811,
+                    41.76013497921948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60608"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.64882919175322,
+                    41.80989958817555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60607"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.6488476189036,
+                    41.85966738013296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60642"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.64886607236546,
+                    41.90943840011852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60613"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.64888455219521,
+                    41.95921269328523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60629"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.66830847745301,
+                    41.685488563653024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60632"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.66834074402941,
+                    41.735248478098136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60623"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.66837305659604,
+                    41.78501150822863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60612"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.66840541525131,
+                    41.83477769888337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60661"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.66843782009391,
+                    41.88454709502626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60657"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.66847027122276,
+                    41.93431974174711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60660"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.66850276873716,
+                    41.98409568426231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60638"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.68785679000652,
+                    41.7103598080563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60624"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.68790299442088,
+                    41.76012126829372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60606"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.68794926471485,
+                    41.809885866603636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60622"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.6879956010294,
+                    41.85965364788731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60647"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.68804200350594,
+                    41.909424657171435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60618"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.6880884722863,
+                    41.95919893960894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60645"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.68813500751267,
+                    42.00897654047981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60644"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.70735894199508,
+                    41.68546896691922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60604"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.70741901846161,
+                    41.735228866189324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60602"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.70747918055635,
+                    41.78499188110552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60651"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.7075394284625,
+                    41.83475805650655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60639"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.70759976236381,
+                    41.884527437356184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60641"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.70766018244451,
+                    41.93430006874407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60659"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.7077206888894,
+                    41.98407599588648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60654"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.72699517602382,
+                    41.7600957402001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60601"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.72706931566961,
+                    41.80986031868821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60707"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.7271435611012,
+                    41.85962808009869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60614"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.72721791254516,
+                    41.909399069458054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60625"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.72729237022871,
+                    41.95917333191907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60610"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.74658527591285,
+                    41.78496043223593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60707"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.74676167590728,
+                    41.88449593954072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60630"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.74685006487823,
+                    41.934268546360386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60646"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.74693858019184,
+                    41.98404444887075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60634"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.76639378617121,
+                    41.909361636992614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60656"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.766496232682,
+                    41.959135870229915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60611"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.78569132942471,
+                    41.784917161637274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60631"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.78603990519774,
+                    41.934225174613644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60666"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.78615642928973,
+                    41.984001043232766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60640"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.80556961107224,
+                    41.90931235979595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":
+            {
+                "zip": "60626"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -87.80570004630576,
+                    41.959086554562376
+                ]
+            }
+        }
+    ]
+}
